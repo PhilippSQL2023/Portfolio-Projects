@@ -45,7 +45,7 @@ WHERE continent IS NOT NULL
 GROUP BY Location 
 ORDER BY TotalDeathCount DESC
 
--- Let´s have a look at the numbers by continent
+-- LetÂ´s have a look at the numbers by continent
 
 -- Contintents with the highest death count per population
 
